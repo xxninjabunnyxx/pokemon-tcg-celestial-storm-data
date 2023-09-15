@@ -1,0 +1,97 @@
+---
+id: sm7-84
+name: Alolan Rattata
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '40'
+types:
+- Darkness
+evolvesTo:
+- Raticate
+attacks:
+- name: Call for the Boss
+  cost: []
+  convertedEnergyCost: 0
+  damage: ''
+  text: Search your deck for Alolan Raticate or Alolan Raticate-GX, reveal it, and
+    put it into your hand. Then, shuffle your deck.
+- name: Gnaw
+  cost:
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '20'
+  text: ''
+weaknesses:
+- type: Fighting
+  value: "×2"
+resistances:
+- type: Psychic
+  value: "-20"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: sm7
+  name: Celestial Storm
+  series: Sun & Moon
+  printedTotal: 168
+  total: 187
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: CES
+  releaseDate: 2018/08/03
+  updatedAt: 2022/10/11 21:39:00
+  images:
+    symbol: https://images.pokemontcg.io/sm7/symbol.png
+    logo: https://images.pokemontcg.io/sm7/logo.png
+number: '84'
+artist: Shibuzoh.
+rarity: Common
+flavorText: When the sun goes down, it becomes active. It runs around town on a chase
+  for good food for the boss of its nest—Raticate.
+nationalPokedexNumbers:
+- 19
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm7/84.png
+  large: https://images.pokemontcg.io/sm7/84_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm7-84
+  updatedAt: 2023/09/15
+  prices:
+    reverseHolofoil:
+      low: 0.12
+      mid: 0.43
+      high: 2.0
+      market: 0.35
+      directLow: 
+    normal:
+      low: 0.05
+      mid: 0.25
+      high: 3.0
+      market: 0.19
+      directLow: 0.2
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm7-84
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.07
+    lowPrice: 0.02
+    trendPrice: 0.04
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.23
+    reverseHoloLow: 0.09
+    reverseHoloTrend: 0.42
+    lowPriceExPlus: 0.02
+    avg1: 0.04
+    avg7: 0.09
+    avg30: 0.1
+    reverseHoloAvg1: 0.2
+    reverseHoloAvg7: 0.39
+    reverseHoloAvg30: 0.37

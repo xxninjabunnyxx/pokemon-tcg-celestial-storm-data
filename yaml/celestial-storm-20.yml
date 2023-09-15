@@ -1,0 +1,94 @@
+---
+id: sm7-20
+name: Cacturne
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '110'
+types:
+- Grass
+evolvesFrom: Cacnea
+abilities:
+- name: Poison Payback
+  text: If this Pokémon is your Active Pokémon and is damaged by an opponent's attack
+    (even if this Pokémon is Knocked Out), the Attacking Pokémon is now Poisoned.
+  type: Ability
+attacks:
+- name: Feint Attack
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: ''
+  text: This attack does 50 damage to 1 of your opponent's Pokémon. This damage isn't
+    affected by Weakness, Resistance, or any other effects on that Pokémon.
+weaknesses:
+- type: Fire
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: sm7
+  name: Celestial Storm
+  series: Sun & Moon
+  printedTotal: 168
+  total: 187
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: CES
+  releaseDate: 2018/08/03
+  updatedAt: 2022/10/11 21:39:00
+  images:
+    symbol: https://images.pokemontcg.io/sm7/symbol.png
+    logo: https://images.pokemontcg.io/sm7/logo.png
+number: '20'
+artist: Atsuko Nishida
+rarity: Uncommon
+flavorText: Packs of them follow travelers through the desert until the travelers
+  can no longer move.
+nationalPokedexNumbers:
+- 332
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm7/20.png
+  large: https://images.pokemontcg.io/sm7/20_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm7-20
+  updatedAt: 2023/09/15
+  prices:
+    normal:
+      low: 0.1
+      mid: 0.25
+      high: 2.0
+      market: 0.17
+      directLow: 0.2
+    reverseHolofoil:
+      low: 0.12
+      mid: 0.3
+      high: 2.0
+      market: 0.26
+      directLow: 0.23
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm7-20
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.08
+    lowPrice: 0.02
+    trendPrice: 0.08
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.26
+    reverseHoloLow: 0.09
+    reverseHoloTrend: 0.35
+    lowPriceExPlus: 0.02
+    avg1: 0.2
+    avg7: 0.09
+    avg30: 0.11
+    reverseHoloAvg1: 0.24
+    reverseHoloAvg7: 0.25
+    reverseHoloAvg30: 0.32
